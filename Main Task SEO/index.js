@@ -3,7 +3,7 @@ $(document).ready(function () {
     $(".card-key").hide();
 
 
-    $(".move-button").click(
+    $(".card-tag").click(
         function () {
             console.log("clicked...waiting...");
             $(".card-key").show();
@@ -12,8 +12,13 @@ $(document).ready(function () {
            
                 setTimeout(myURL, 3000);
                 function myURL(){
-                   window.open('pages/jokes.html',"_self");
+                   window.open('/jokes.html',"_self");
                 }
         });
+
+        $("#review").click(
+            function () {
+                window.open('form.html',"_self");
+            });
 
 });

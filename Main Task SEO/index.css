@@ -1,44 +1,40 @@
 .logo{
-    width: 10%;
-    height: 18vh;
-    background-image: url(Images/Logo1.png);
-    /* background-color: azure; */
+    height: 20vh;
+    background-image: url(Logo1.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    position: absolute;
-    left: 0;
-    top: 0;
+    /* margin-top: 4vh; */
+    float: left;
 }
 
 .nav{
-    width: 85%;
     height: 10vh;
     background-color: #c74545;
-    position: absolute;
-    right: 4%;
-    top: 4vh;
     border-radius: 50px;
+    margin-top: 5vh;
+
 }
 
 #review{
-    width: 6%;
-    height: 6vh;
-    background-image: url(Images/Review2.png);
+    width: 10%;
+    height: 7vh;
+    background-image: url(Review2.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    position: relative;
-    left: 93%;
-    top: 2vh;
+    cursor: pointer;
+    margin-top: 1vh;
 }
 
 #main-heading{
-    width: 93%;
+    /* width: 93%; */
     color: white;
     font-family: 'Permanent Marker', cursive;
     text-align: center;
     float: left;
+    padding-top: 1.5vh;
+    margin: 0 auto;
 }
 
 body{
@@ -46,20 +42,21 @@ body{
 }
 
 .door-img{
-    width: 80%;
+    /* width: 70%; */
     height: 80vh;
-    margin: 0 auto;
-    background-image: url(Images/Door.png);
+    /* margin: 0 auto; */
+    background-image: url(Door.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
     margin-bottom: 15vh;
+    float: left;
 }
 
 #info-heading{
     margin: 0 auto;
     margin-top: 25vh;
-    margin-bottom: 15vh;
+    margin-bottom: 13vh;
     text-align: center;
     color: white;
     font-family: 'Permanent Marker', cursive;
@@ -86,7 +83,7 @@ body{
     
     height: 60vh;
     width: 20%;
-    background-image: url(Images/KeyCard.png);
+    background-image: url(KeyCard.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -95,43 +92,51 @@ body{
     margin-left: 10%;
     position: absolute;
     transition: all ease-in-out 500ms;
-    left: 20%;
+    left: 35%;
 }
 
 .card-keyMove{
     
-    margin-left: 30%;
+    margin-left: 40%;
 }
 
 .move-button{
     width: 5%;
     height: 10vh;
-    /* background-color: #c74545; */
+    background-color: #c74545;
     margin: 0 auto;
     position: absolute;
     margin-top: 25vh;
-    right: 47.5%;
+    right: 0;
     cursor: pointer;
+    
 }
 
 .card-tag{
     height: 60vh;
     width: 20%;
-    background-image: url(Images/CardTag.png);
+    background-image: url(CardTag.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
     /* float: left; */
-    margin: 0 auto;
+    /* margin: 0 auto; */
+    margin-left: 60%;
+    cursor: pointer;
 }
 
 .card-tagGood{
     height: 60vh;
     width: 20%;
-    background-image: url(Images/CardTag2.png);
+    background-image: url(CardTag2.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    margin-left: 60%;
     /* float: left; */
-    margin: 0 auto;
+}
+
+
+.clicked{
+    cursor: pointer;
 }

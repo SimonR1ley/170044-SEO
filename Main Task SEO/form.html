@@ -6,23 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta name="description" content="Get access to the best jokes on the internet. Top secret!">
-    <meta name="keywords" content="Joke, Jokes, Funny,">
-    
-
 
     <title>MAD JOKES | The Best Jokes on the Inernet</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="form.css">
+    
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
-
-  
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-67BSKS008E"></script>
@@ -34,46 +29,32 @@
   gtag('config', 'G-67BSKS008E');
 </script>
 
-
 </head>
 
 <body>
-  
 
     <div class="container-fluid">
         <!-- <div class="row">
             <div class="col-3 d-md-none"></div> -->
         <div class="row">
             <div class="col-12 background">
-                <div class="col-2 logo"></div>
+                <a href="index.html"><div class="col-2 logo"></div></a>
                 <div class="col-10 nav">
                     <h1 id="main-heading">MAD JOKES</h1>
                    <div id="review"></div>
                 </div>
-                <h1 id="info-heading">About this Website</h1>
-                <p id="info">This Website contains sacred knowledge. Access is only given to those who can handle the jokes
-                    behind this door. Enter at your own risk.</p>
-                <h3 id="access-info">CLICK THE ACCESS POINT TO ENTER</h3>
+
+                <h1 class="review-heading">Review</h1>
+
+                <div class="form-container">
+                  <form class="form">
+                    <label for="message">Message:</label><br>
+                    <input type="text" id="message" name="message"><br>
+                    <div class="submit-button"><p id="submit-text">Submit</p></div>
+                  </form>
+                </div>
             </div>
         </div>
-
-       
-       
-        <div class="row">
-
-            <div class="access-con ">
-                <div class="col-6 door-img"></div>
-                <div class="col-3 card-key"></div>
-                <a class="clicked"><div class="col-3 card-tag"></div></a>
-            </div>
-        </div>
-
-
-        <div class="row">
-          
-        </div>
-
-
 
     </div>
 
@@ -89,7 +70,7 @@
         crossorigin="anonymous"></script>
 
 
-        <script src="/index.js"></script>
+        <script src="index.js"></script>
 
 </body>
 
