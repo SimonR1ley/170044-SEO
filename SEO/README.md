@@ -3,10 +3,10 @@
 <!-- Repository Information & Links-->
 <br />
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SimonR1ley/termoneexample)
-![GitHub watchers](https://img.shields.io/github/watchers/SimonR1ley/termoneexample)
-![GitHub language count](https://img.shields.io/github/languages/count/SimonR1ley/termoneexample)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SimonR1ley/termoneexample)
+![GitHub repo size](https://img.shields.io/github/repo-size/SimonR1ley//170044-SEO)
+![GitHub watchers](https://img.shields.io/github/watchers/SimonR1ley//170044-SEO)
+![GitHub language count](https://img.shields.io/github/languages/count/SimonR1ley//170044-SEO)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SimonR1ley//170044-SEO)
 
 
 <!-- HEADER SECTION -->
@@ -74,7 +74,7 @@ I put them all together and built the website.
 #### Highlights
 <!-- stipulated the highlight you experienced with the project -->
 * Learning about how important SEO really is.
-* Learnign about how much data you can actually get from the users that visit the site.
+* Learning about how much data you can actually get from the users that visit the site.
 
 #### Challenges
 <!-- stipulated the challenges you faced with the project and why you think you faced it or how you think you'll solve it (if not solved) -->
@@ -93,12 +93,8 @@ I put them all together and built the website.
 
 ### Mockups
 
-![image9](/SEO/Images/MockupTwo.png)
-![image9](/SEO/Images/MockupThree.png)
+![image5](/SEO/Images/MockupFive.png)
 <br>
-![image10](/SEO/Images/MockupFour.png)
-![image10](/SEO/Images/MockupFive.png)
-
 
 <!-- AUTHORS -->
 ## Authors
@@ -113,14 +109,10 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 <!-- LICENSE -->
 ## Contact
 
-* **Simon Riley** - [170044@virtualwindow.co.za](mailto:email@address) - [@instagram_handle](https://www.instagram.com/simonbrettriley/) 
+* **Simon Riley** - [170044@virtualwindow.co.za](mailto:email@address) - [@simonbrettriley](https://www.instagram.com/simonbrettriley/) 
 * **Project Link** - https://github.com/SimonR1ley/170044-SEO/SEO
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 <!-- all resources that you used and Acknowledgements here -->
-* [Resource Name](path/to/resource)
-* [Resource Name](path/to/resource)
-* [Resource Name](path/to/resource)
-* [Resource Name](path/to/resource)
-* [Resource Name](path/to/resource)
+* [API Ninja](https://api-ninjas.com/)
