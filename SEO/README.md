@@ -37,9 +37,6 @@
   * [Project Description](#project-description)
 * [Funniest Jokes!](#funniest-jokes)
 * [Concept Process](#concept-process)
-   * [Ideation](#ideation)
-   * [Wireframes](#wireframes)
-   * [Custom UI](#user-flow)
 * [Highlights](#highlights)
 * [Challenges](#challenges)
 * [Future Implementation](#peer-reviews)
@@ -73,21 +70,6 @@ The `Conceptual Process` is the set of actions, activities and research that was
 I started looking for appropriate APIs to use.
 I found some inspiration and images I liked.
 I put them all together and built the website.
-
-### Ideation
-
-![image5][image5]
-<br>
-![image6][image6]
-
-### Wireframes
-
-![image7][image7]
-
-### Custom UI
-
-![image8][image8]
-
 
 #### Highlights
 <!-- stipulated the highlight you experienced with the project -->
