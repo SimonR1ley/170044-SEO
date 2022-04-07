@@ -16,7 +16,7 @@ $(document).ready(function () {
                 }
         });
 
-        $("#review").click(
+        $(".review").click(
             function () {
                 window.open('form.html',"_self");
             });

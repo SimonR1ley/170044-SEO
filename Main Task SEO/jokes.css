@@ -73,14 +73,14 @@
 
 
 .joke-con{
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     height: 15vh;
     /* background-color: black; */
 }
 
 .home-con{
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     height: 15vh;
     /* background-color: grey; */
@@ -91,8 +91,9 @@
     padding: 0;
     height: 15vh;
     /* background-color: green; */
-    float: right;
+    float: left;
     cursor: pointer;
+    margin-left: 20%;
 }
 
 .home{
@@ -102,4 +103,14 @@
     /* background-color: red; */
     float: left;
     cursor: pointer;
+    margin-left: 10%;
+}
+
+.small1{
+    margin-left: 0%;
+    margin-right: 6%;
+}
+
+.smaill2{
+    margin-left: 0%;
 }

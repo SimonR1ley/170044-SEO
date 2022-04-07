@@ -10,6 +10,11 @@ $(document).ready(function(){
         console.log(randomNumber);
     });
 
+    $(".home").click(
+        function () {
+            window.open('index.html',"_self");
+        });
+
 
 $.ajax({
     method: 'GET',
