@@ -17,7 +17,7 @@
 <p align="center">
 
   <a href="https://github.com/SimonR1ley/170044-SEO">
-    <img src="logo1.png" alt="Logo" width="140" height="140">
+    <img src="./logo1.png" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">MadJokes</h3>
