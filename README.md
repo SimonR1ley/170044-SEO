@@ -40,8 +40,6 @@
 * [Highlights](#highlights)
 * [Challenges](#challenges)
 * [Future Implementation](#future-implementation)
-* [Final Outcome](#final-outcome)
-    * [Mockups](#mockups)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -49,7 +47,7 @@
 <!--PROJECT DESCRIPTION-->
 ## About the Project
 <!-- header image of project -->
-![image1](/SEO/Images/MockupOne.png)
+![image1](/SEO/Images/MockupFive.png)
 
 ### Project Description
 
@@ -88,13 +86,6 @@ I put them all together and built the website.
 * Better Design for the website.
 * Getting more users on the website.
 
-<!-- MOCKUPS -->
-## Final Outcome
-
-### Mockups
-
-![image2](/SEO/Images/MockupFive.png)
-<br>
 
 <!-- AUTHORS -->
 ## Authors
