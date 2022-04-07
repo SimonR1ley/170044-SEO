@@ -1,6 +1,6 @@
 .logo{
     height: 13vh;
-    background-image: url(Logo1.png);
+    background-image: url(Logo.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -20,7 +20,7 @@
 .review{
     /* width: 10%; */
     height: 8vh;
-    background-image: url(Review2.png);
+    background-image: url(Review.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;

@@ -16,8 +16,8 @@
 </br>
 <p align="center">
 
-  <a href="https://github.com/SimonR1ley/SEO/170044-SEO">
-    <img src="https://github.com/SimonR1ley/170044-SEO/SEO/logo1.png" alt="Logo" width="140" height="140">
+  <a href="https://github.com/SimonR1ley/170044-SEO/SEO">
+    <img src="SEO/logo.png" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">MadJokes</h3>
@@ -48,7 +48,6 @@
    * [Future Implementation](#peer-reviews)
 * [Final Outcome](#final-outcome)
     * [Mockups](#mockups)
-    * [Video Demonstration](#video-demonstration)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -56,7 +55,7 @@
 <!--PROJECT DESCRIPTION-->
 ## About the Project
 <!-- header image of project -->
-![image1](https://raw.githubusercontent.com/SimonR1ley/170044-SEO/SEO/Images/Mockup1.png)
+![image1](SEO/Images/MockupOne.png)
 
 ### Project Description
 
