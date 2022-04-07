@@ -17,7 +17,7 @@
 <p align="center">
 
   <a href="https://github.com/SimonR1ley/170044-SEO/SEO">
-    <img src="SEO/logo.png" alt="Logo" width="140" height="140">
+    <img src="/SEO/Logo.png" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">MadJokes</h3>
@@ -35,17 +35,14 @@
 
 * [About the Project](#about-the-project)
   * [Project Description](#project-description)
-* [Features and Functionality](#features-and-functionality)
 * [Funniest Jokes!](#funniest-jokes)
 * [Concept Process](#concept-process)
    * [Ideation](#ideation)
    * [Wireframes](#wireframes)
    * [Custom UI](#user-flow)
-* [Development Process](#development-process)
-   * [Implementation Process](#implementation-process)
-        * [Highlights](#highlights)
-        * [Challenges](#challenges)
-   * [Future Implementation](#peer-reviews)
+* [Highlights](#highlights)
+* [Challenges](#challenges)
+* [Future Implementation](#peer-reviews)
 * [Final Outcome](#final-outcome)
     * [Mockups](#mockups)
 * [License](#license)
@@ -55,34 +52,15 @@
 <!--PROJECT DESCRIPTION-->
 ## About the Project
 <!-- header image of project -->
-![image1](SEO/Images/MockupOne.png)
+![image1](/SEO/Images/MockupOne.png)
 
 ### Project Description
 
 This Website is a fun way to pass time, just click a button and read random jokes.
 
-
-<!-- FEATURES AND FUNCTIONALITY-->
-<!-- You can add the links to all of your imagery at the bottom of the file as references -->
-## Features and Functionality
-
-<!-- note how you can use your gitHub link. Just make a path to your assets folder -->
-![image2](https://raw.githubusercontent.com/SimonR1ley/termoneexample/main/src/assets/mockup.jpg)
 ### Funniest Jokes! 
 
 Using API Ninja Joke API, we were able to call the funniest jokes to the website.
-
-![image3][image3]
-### Feature 2
-
-Description of Feature
-
-![image4][image4]
-### Feature 3
-
-Description of Feature
-
-![image5][image5]
 
 
 <!-- CONCEPT PROCESS -->
@@ -133,15 +111,17 @@ I put them all together and built the website.
 
 ### Mockups
 
-![image9][image9]
+![image9](/SEO/Images/MockupTwo.png)
+![image9](/SEO/Images/MockupThree.png)
 <br>
-![image10][image10]
+![image10](/SEO/Images/MockupFour.png)
+![image10](/SEO/Images/MockupFive.png)
 
 
 <!-- AUTHORS -->
 ## Authors
 
-* **Your Name & Surname** - [SimonR1ley](https://github.com/SimonR1ley)
+* **Simon Riley** - [SimonR1ley](https://github.com/SimonR1ley)
 
 <!-- LICENSE -->
 ## License
@@ -151,8 +131,8 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 <!-- LICENSE -->
 ## Contact
 
-* **Your Name & Surname** - [email@address](mailto:email@address) - [@instagram_handle](https://www.instagram.com/instagram_handle/) 
-* **Project Link** - https://github.com/SimonR1ley/termoneexample
+* **Simon Riley** - [170044@virtualwindow.co.za](mailto:email@address) - [@instagram_handle](https://www.instagram.com/simonbrettriley/) 
+* **Project Link** - https://github.com/SimonR1ley/170044-SEO/SEO
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
